@@ -4,6 +4,8 @@ public class test {
         System.out.println("hi");
         System.out.println("oded test commit");
         System.out.println("test2");
+
+        System.out.println("test pull");
     }
 
 }
