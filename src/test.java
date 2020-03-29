@@ -5,6 +5,7 @@ public class test {
         System.out.println("oded test commit");
         System.out.println("test2");
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
         System.out.println("test pull");
