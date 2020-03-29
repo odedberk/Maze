@@ -1,15 +1,6 @@
 public class test {
     public static void main(String[] args) {
-        System.out.println("hello");
-        System.out.println("hi");
-        System.out.println("oded test commit");
-        System.out.println("test2");
-        System.out.println("hello");
-        System.out.println("hi");
-        System.out.println("hello");
-        System.out.println("hi");
 
-        System.out.println("test pull");
     }
 
 }
